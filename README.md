@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lakshmi Maurya
 - 👀 I’m interested in C,C++,Java,HTML,CSS,JS,etc
 - 🌱 I’m currently learning Full stack devlopment,Java,etc
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me with my mail id i.e. lakshmimaurya7409@gmail.com
 
 <!---
